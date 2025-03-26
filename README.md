@@ -31,11 +31,8 @@ This project is a cross-platform mobile and desktop application built using **.N
 - Install **MySQL Server** and MySQL Workbench
 
 ### Backend Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo/backend
-   ```
+1. Open backend file.
+
 2. Install dependencies:
    ```sh
    dotnet restore
@@ -52,7 +49,7 @@ This project is a cross-platform mobile and desktop application built using **.N
    ```
 
 ### Frontend Setup
-1. Navigate to the frontend project:
+1. Navigate to the frontend file.
 
 2. Restore dependencies:
    ```sh
