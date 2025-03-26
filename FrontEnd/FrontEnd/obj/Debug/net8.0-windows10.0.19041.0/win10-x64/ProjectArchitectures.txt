@@ -1,0 +1,1 @@
+C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\FrontEnd.csproj;x64

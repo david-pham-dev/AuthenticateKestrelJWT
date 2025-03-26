@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FrontEnd.Views.SignInPage"
+             Title="Sign In"
+             BackgroundColor="AntiqueWhite">
+    <ScrollView>
+        <VerticalStackLayout HorizontalOptions="Center" Spacing="40">
+            <Image  Source="taycan.jpg" BackgroundColor="Orange"
+     HeightRequest="400"
+     
+      SemanticProperties.Description="Entry" />
+            <Entry x:Name="EmailEntry"  Placeholder="Enter your email" Keyboard="Email" TextColor="Black" />
+            <Entry x:Name="PasswordEntry" Placeholder="Enter your password" IsPassword="True" TextColor="Black"/>
+            <Button Text="Sign In" BackgroundColor="DodgerBlue" TextColor="White" FontSize="18" Clicked="OnLoginClicked" />
+            <Label x:Name="errorLabel"
+               Text=""
+               TextColor="Red"
+               FontSize="14"
+               IsVisible="False"
+               HorizontalOptions="Center"/>
+            <Label 
+         x:Name="StatusLabel"
+         Text="Don't Have An Acccount? Register here!"
+         TextColor="Red"
+         HorizontalOptions="Center"
+         VerticalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnLabelTapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
