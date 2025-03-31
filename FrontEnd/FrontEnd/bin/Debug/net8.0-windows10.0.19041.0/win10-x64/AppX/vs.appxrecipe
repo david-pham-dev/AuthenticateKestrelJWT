@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-26T04:01:55.992</Modified>
+      <Modified>2025-03-31T03:52:45.121</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-21T14:45:22.247</Modified>
+      <Modified>2025-03-31T03:52:44.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FrontEnd.runtimeconfig.json">
       <PackagePath>FrontEnd.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FrontEnd.dll">
       <PackagePath>FrontEnd.dll</PackagePath>
-      <Modified>2025-03-26T04:01:53.312</Modified>
+      <Modified>2025-03-31T03:52:43.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>FrontEnd.exe</PackagePath>
-      <Modified>2025-03-26T04:01:53.834</Modified>
+      <Modified>2025-03-31T03:52:43.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -73,6 +73,10 @@
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-03-19T04:02:16.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\fa-solid-900.ttf">
+      <PackagePath>fa-solid-900.ttf</PackagePath>
+      <Modified>2025-03-30T07:15:55.757</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -300,7 +304,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FrontEnd.deps.json">
       <PackagePath>FrontEnd.deps.json</PackagePath>
-      <Modified>2025-03-26T04:01:55.372</Modified>
+      <Modified>2025-03-30T21:32:54.759</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
