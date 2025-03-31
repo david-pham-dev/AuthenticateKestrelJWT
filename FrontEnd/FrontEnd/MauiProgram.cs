@@ -1,4 +1,5 @@
-﻿using FrontEnd.Service;
+﻿using FrontEnd.Models;
+using FrontEnd.Service;
 using FrontEnd.Views;
 using Microsoft.Extensions.Logging;
 
@@ -15,6 +16,7 @@ namespace FrontEnd
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("fa-solid-900.ttf", "FontAwesome");
                 });
             //builder.Services.AddHttpClient("AppHttpClient", (client) =>
             //{
@@ -25,6 +27,7 @@ namespace FrontEnd
             //});
           
             builder.Services.AddSingleton<ApiService>();
+            builder.Services.AddSingleton<PasswordViewModel>();
             //builder.Services.AddSingleton<UserService>();
             builder.Services.AddTransient<RegisterPage>();
             builder.Services.AddTransient<SignInPage>();

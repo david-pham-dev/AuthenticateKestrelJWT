@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-=======
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,18 +11,16 @@
       "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\models\\useraccountsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\models\\useraccountsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> e31ad97 (stash)
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\userdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\userdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\models\\useraccountsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,28 +31,8 @@
       "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\models\\passwordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\userdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\userdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\models\\userdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\models\\userdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\models\\viewmodels\\registerpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\models\\viewmodels\\registerpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
->>>>>>> e31ad97 (stash)
+      "AbsoluteMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|c:\\users\\my pc\\source\\repos\\authenticatekestreljwt\\frontend\\frontend\\views\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A3ABA5-1A68-400B-9233-329CF3C3415A}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,11 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 9,
-=======
-          "SelectedChildIndex": 8,
->>>>>>> e31ad97 (stash)
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -108,176 +74,102 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 5,
-              "Title": "RegisterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "RelativeToolTip": "FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T03:48:45.039Z",
-=======
-              "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\MauiProgram.cs",
-              "RelativeToolTip": "FrontEnd\\MauiProgram.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T04:47:18.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserDetailModel.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Models\\UserDetailModel.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Models\\UserDetailModel.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Models\\UserDetailModel.cs",
-              "RelativeToolTip": "FrontEnd\\Models\\UserDetailModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T04:42:31.582Z",
->>>>>>> e31ad97 (stash)
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-<<<<<<< HEAD
-              "Title": "UserDetail.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Views\\UserDetail.xaml.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml.cs",
-              "RelativeToolTip": "FrontEnd\\Views\\UserDetail.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAArwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T03:45:31.023Z",
-=======
-              "Title": "RegisterPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Models\\ViewModels\\RegisterPageViewModel.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Models\\ViewModels\\RegisterPageViewModel.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Models\\ViewModels\\RegisterPageViewModel.cs",
-              "RelativeToolTip": "FrontEnd\\Models\\ViewModels\\RegisterPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T04:42:16.326Z",
->>>>>>> e31ad97 (stash)
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-=======
-              "DocumentIndex": 2,
-              "Title": "RegisterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml",
-              "RelativeDocumentMoniker": "FrontEnd\\Views\\RegisterPage.xaml",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml",
-              "RelativeToolTip": "FrontEnd\\Views\\RegisterPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T04:32:51.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "RelativeToolTip": "FrontEnd\\Views\\RegisterPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T03:48:45.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
->>>>>>> e31ad97 (stash)
-              "Title": "UserDetail.xaml",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml",
-              "RelativeDocumentMoniker": "FrontEnd\\Views\\UserDetail.xaml",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml",
-              "RelativeToolTip": "FrontEnd\\Views\\UserDetail.xaml",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
->>>>>>> e31ad97 (stash)
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T03:45:28.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserAccountSession.cs",
               "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Models\\UserAccountSession.cs",
               "RelativeDocumentMoniker": "FrontEnd\\Models\\UserAccountSession.cs",
               "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Models\\UserAccountSession.cs",
               "RelativeToolTip": "FrontEnd\\Models\\UserAccountSession.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
->>>>>>> e31ad97 (stash)
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T03:02:00.765Z",
+              "WhenOpened": "2025-03-31T05:08:05.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "UserDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml",
+              "RelativeDocumentMoniker": "FrontEnd\\Views\\UserDetail.xaml",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml",
+              "RelativeToolTip": "FrontEnd\\Views\\UserDetail.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T05:07:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Views\\UserDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\UserDetail.xaml.cs",
+              "RelativeToolTip": "FrontEnd\\Views\\UserDetail.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:07:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "FrontEnd\\Views\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml",
+              "RelativeToolTip": "FrontEnd\\Views\\RegisterPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T04:58:29.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Views\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "FrontEnd\\Views\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:48:45.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-=======
-              "DocumentIndex": 8,
->>>>>>> e31ad97 (stash)
               "Title": "SignInPage.xaml",
               "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\SignInPage.xaml",
               "RelativeDocumentMoniker": "FrontEnd\\Views\\SignInPage.xaml",
               "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\SignInPage.xaml",
               "RelativeToolTip": "FrontEnd\\Views\\SignInPage.xaml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-31T01:30:31.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-=======
-              "DocumentIndex": 4,
->>>>>>> e31ad97 (stash)
+              "DocumentIndex": 7,
               "Title": "SignInPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\SignInPage.xaml.cs",
               "RelativeDocumentMoniker": "FrontEnd\\Views\\SignInPage.xaml.cs",
               "ToolTip": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Views\\SignInPage.xaml.cs",
               "RelativeToolTip": "FrontEnd\\Views\\SignInPage.xaml.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAgAAAAAAAAAAAA4wA8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T02:34:09.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PasswordViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\AuthenticateKestrelJwt\\FrontEnd\\FrontEnd\\Models\\PasswordViewModel.cs",
               "RelativeDocumentMoniker": "FrontEnd\\Models\\PasswordViewModel.cs",
@@ -286,11 +178,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T06:53:45.489Z",
-=======
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:34:09.063Z",
->>>>>>> e31ad97 (stash)
               "EditorCaption": ""
             }
           ]

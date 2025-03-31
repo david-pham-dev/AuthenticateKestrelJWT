@@ -3,6 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FrontEnd.Views.RegisterPage"
              Title="Register"
+             xmlns:viewmodel ="clr-namespace:FrontEnd.Models"
+             x:DataType="viewmodel:PasswordViewModel"
              BackgroundColor="AntiqueWhite">
     <ScrollView>
         <VerticalStackLayout HorizontalOptions="Center" Spacing="40">
@@ -10,9 +12,24 @@
      HeightRequest="400"
      
       SemanticProperties.Description="Car" />
-            <Entry x:Name="NameEntry" Placeholder="Enter your name" TextColor="Black" />
+            <Entry x:Name="NameEntry" Text="{Binding Password, Mode=TwoWay}" Placeholder="Enter your name" TextColor="Black" />
             <Entry x:Name="EmailEntry" Placeholder="Enter your email" Keyboard="Email" TextColor="Black" />
-            <Entry x:Name="PasswordEntry" Placeholder="Enter your password" IsPassword="True" TextColor="Black"/>
+            <Grid>
+                <Entry x:Name="PasswordEntry" Placeholder="Enter your password" IsPassword="{Binding IsPasswordHidden}" TextColor="Black"/>
+                <Button Command="{Binding TogglePasswordCommand}"
+                FontFamily="FontAwesome"
+                Text="{Binding PasswordToggleIcon}"
+                FontSize="20"
+                BackgroundColor="Transparent"
+                BorderWidth="0"
+                Padding="0"
+                HorizontalOptions="End"
+                VerticalOptions="Center"
+                WidthRequest="40"
+                HeightRequest="40"
+              />
+            </Grid>
+          
             <Button Text="Register Now!" Clicked="OnClickRegister" />
             <Label 
          x:Name="StatusLabel"
