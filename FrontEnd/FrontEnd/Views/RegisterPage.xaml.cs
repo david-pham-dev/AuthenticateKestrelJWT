@@ -11,6 +11,7 @@ public partial class RegisterPage : ContentPage
 	public RegisterPage()
     {
 		InitializeComponent();
+
         _apiService = new ApiService();
     }
     private void OnLabelTapped(object sender, EventArgs e)
