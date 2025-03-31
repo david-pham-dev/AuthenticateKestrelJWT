@@ -1,3 +1,4 @@
+using FrontEnd.Models;
 using FrontEnd.Models.ViewModels;
 using FrontEnd.Service;
 
@@ -11,7 +12,7 @@ public partial class RegisterPage : ContentPage
 	public RegisterPage()
     {
 		InitializeComponent();
-
+        BindingContext = new PasswordViewModel();
         _apiService = new ApiService();
     }
     private void OnLabelTapped(object sender, EventArgs e)
@@ -29,7 +30,8 @@ public partial class RegisterPage : ContentPage
         bool isRegistered = await _apiService.Register(userRegisterDetail);
         if (isRegistered)
         {
-            await DisplayAlert("Success", "User registered successfully!", "OK");
+           await DisplayAlert("Success", "User registered successfully!", "OK");
+            ClearFields();
           await  Navigation.PushAsync(new SignInPage());
         }
         else
@@ -37,5 +39,11 @@ public partial class RegisterPage : ContentPage
             await DisplayAlert("Error", "Registration failed.", "OK");
         }
 
+    }
+    private void ClearFields()
+    {
+        NameEntry.Text = null;
+        EmailEntry.Text = null;
+        PasswordEntry.Text = null;
     }
 }

@@ -2,6 +2,8 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FrontEnd.Views.SignInPage"
+              xmlns:viewmodel ="clr-namespace:FrontEnd.Models"
+             x:DataType="viewmodel:PasswordViewModel"
              Title="Sign In"
              BackgroundColor="AntiqueWhite">
     <ScrollView>
@@ -11,7 +13,22 @@
      
       SemanticProperties.Description="Entry" />
             <Entry x:Name="EmailEntry"  Placeholder="Enter your email" Keyboard="Email" TextColor="Black" />
-            <Entry x:Name="PasswordEntry" Placeholder="Enter your password" IsPassword="True" TextColor="Black"/>
+            <Grid>
+                <Entry Text="{Binding Password, Mode=TwoWay}" x:Name="PasswordEntry" Placeholder="Enter your password" IsPassword="{Binding IsPasswordHidden}" TextColor="Black"/>
+                <Button Command="{Binding TogglePasswordCommand}"
+                  FontFamily="FontAwesome"
+                  Text="{Binding PasswordToggleIcon}"
+                  FontSize="20"
+                  BackgroundColor="Transparent"
+                  BorderWidth="0"
+                  Padding="0"
+                  HorizontalOptions="End"
+                  VerticalOptions="Center"
+                  WidthRequest="40"
+                  HeightRequest="40"
+                />
+            </Grid>
+            
             <Button Text="Sign In" BackgroundColor="DodgerBlue" TextColor="White" FontSize="18" Clicked="OnLoginClicked" />
             <Label x:Name="errorLabel"
                Text=""

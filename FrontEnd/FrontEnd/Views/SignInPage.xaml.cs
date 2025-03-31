@@ -12,6 +12,7 @@ public partial class SignInPage : ContentPage
 	{
 		InitializeComponent();
 		_apiService = new ApiService();
+		BindingContext = new PasswordViewModel();
 	}
 	private async void OnLoginClicked(object sender, EventArgs e)
 	{
