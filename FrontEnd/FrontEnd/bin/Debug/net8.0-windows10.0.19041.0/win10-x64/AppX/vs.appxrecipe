@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-31T05:14:19.343</Modified>
+      <Modified>2025-03-31T23:41:16.943</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-31T05:03:23.648</Modified>
+      <Modified>2025-03-31T23:37:05.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FrontEnd.runtimeconfig.json">
       <PackagePath>FrontEnd.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-26T04:01:55.597</Modified>
+      <Modified>2025-03-31T23:37:05.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FrontEnd.dll">
       <PackagePath>FrontEnd.dll</PackagePath>
-      <Modified>2025-03-31T05:14:14.629</Modified>
+      <Modified>2025-03-31T23:41:15.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>FrontEnd.exe</PackagePath>
-      <Modified>2025-03-31T05:14:14.895</Modified>
+      <Modified>2025-03-31T23:41:15.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -304,7 +304,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\source\repos\AuthenticateKestrelJwt\FrontEnd\FrontEnd\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FrontEnd.deps.json">
       <PackagePath>FrontEnd.deps.json</PackagePath>
-      <Modified>2025-03-30T21:32:54.759</Modified>
+      <Modified>2025-03-31T23:37:04.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -474,9 +474,65 @@
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
       <Modified>2023-03-08T07:09:54.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\pclcrypto\2.0.147\lib\net45\PCLCrypto.dll">
+      <PackagePath>PCLCrypto.dll</PackagePath>
+      <Modified>2016-04-02T22:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\pinvoke.bcrypt\0.3.2\lib\net40\PInvoke.BCrypt.dll">
+      <PackagePath>PInvoke.BCrypt.dll</PackagePath>
+      <Modified>2016-04-02T22:02:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\pinvoke.kernel32\0.3.2\lib\net40\PInvoke.Kernel32.dll">
+      <PackagePath>PInvoke.Kernel32.dll</PackagePath>
+      <Modified>2016-04-02T22:02:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\pinvoke.ncrypt\0.3.2\lib\net40\PInvoke.NCrypt.dll">
+      <PackagePath>PInvoke.NCrypt.dll</PackagePath>
+      <Modified>2016-04-02T22:03:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\pinvoke.windows.core\0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.Windows.Core.dll">
+      <PackagePath>PInvoke.Windows.Core.dll</PackagePath>
+      <Modified>2016-04-02T22:02:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlite-net-pcl\1.9.172\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2024-03-27T22:22:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlite.net-pcl\3.1.1\lib\net4\SQLite.Net.Platform.Win32.dll">
+      <PackagePath>SQLite.Net.Platform.Win32.dll</PackagePath>
+      <Modified>2015-11-06T17:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlite.net-pcl\3.1.1\lib\net40\SQLite.Net.Platform.Generic.dll">
+      <PackagePath>SQLite.Net.Platform.Generic.dll</PackagePath>
+      <Modified>2015-11-06T17:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlite.net.cipher-slb\0.1.0\lib\net40\SQLite.Net.Cipher.dll">
+      <PackagePath>SQLite.Net.Cipher.dll</PackagePath>
+      <Modified>1980-01-01T00:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlite.net.core-pcl\3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+      <Modified>2015-11-06T17:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlitepclraw.bundle_green\2.1.2\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2022-09-18T19:28:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlitepclraw.core\2.1.2\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2022-09-18T19:26:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.2\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2022-09-18T19:27:06.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\system.diagnostics.diagnosticsource\9.0.3\lib\net8.0\System.Diagnostics.DiagnosticSource.dll">
       <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
       <Modified>2025-02-11T23:12:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\validation\2.2.8\lib\dotnet\Validation.dll">
+      <PackagePath>Validation.dll</PackagePath>
+      <Modified>2015-10-09T19:08:36.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
@@ -621,6 +677,10 @@
     <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.2\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2022-09-18T19:20:44.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MY PC\.nuget\packages\microsoft.maui.controls.compatibility\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

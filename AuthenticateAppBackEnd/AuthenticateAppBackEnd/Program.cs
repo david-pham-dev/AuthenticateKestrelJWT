@@ -18,7 +18,8 @@ builder.Services.AddScoped<DbService>();
 var connectionString = builder.Configuration.GetConnectionString("Default");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+    //options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+    options.UseSqlite(connectionString);
 });
 builder.Services.AddEndpointsApiExplorer();
 //builder.Services.AddSwaggerGenWithAuth();

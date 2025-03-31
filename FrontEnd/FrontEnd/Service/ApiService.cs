@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using SQLite;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
@@ -10,6 +11,8 @@ using System.Diagnostics;
 using System.Net.Http.Json;
 using FrontEnd.Models.ViewModels;
 using Newtonsoft.Json;
+using System.IO;
+using System.Threading.Tasks;
 using System.Collections.Specialized;
 
 namespace FrontEnd.Service
@@ -18,20 +21,21 @@ namespace FrontEnd.Service
     {
         private UserAccountSession _userAccountSession;
         private readonly HttpClient _httpClient;
+        private readonly SQLiteAsyncConnection _database;
         private const string USER_SESSION_TOKEN = "user_account_session";
         public ApiService()
         {
-
-            _httpClient = new HttpClient()
-            {
-                BaseAddress = new Uri("http://localhost:5000")
-            };
+            //var dbPath = Path.Combine(FileSystem.AppDataDirectory, "user.db");
+            //_database = new SQLiteAsyncConnection(dbPath);
+            _httpClient = new HttpClient() { BaseAddress = new Uri("http://localhost:5000") };
         }
         public async Task<bool> Register(RegisterPageViewModel registerPageViewModel)
         {
             var registerData = new { Email = registerPageViewModel.Email, Name = registerPageViewModel.Name, Password = registerPageViewModel.Password };
             var json = System.Text.Json.JsonSerializer.Serialize(registerData);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
+            //return await _database.InsertAsync(content);
+            
             var response = await _httpClient.PostAsync("api/user/register", content);
             if (!response.IsSuccessStatusCode || response is null) { return false; }
             else
