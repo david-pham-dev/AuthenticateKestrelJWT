@@ -38,8 +38,8 @@ namespace FrontEnd.Service
             {
                 return true;
             }
-        } 
-        public async Task<string> LoginAsync(string email, string password)
+        }
+        public async Task<UserAccountSession?> LoginAsync(string email, string password)
         {
             var loginData = new { Email = email, Password = password };
             var json = System.Text.Json.JsonSerializer.Serialize(loginData);
@@ -47,9 +47,20 @@ namespace FrontEnd.Service
             var response = await _httpClient.PostAsync("api/user/login", content);
             var result = await response.Content.ReadAsStringAsync();
             UserAccountSession? deseralizedResult = System.Text.Json.JsonSerializer.Deserialize<UserAccountSession>(result);
-            return deseralizedResult.accessToken;
+            return deseralizedResult;
 
         }
+        //public async Task<string> LoginAsync(string email, string password)
+        //{
+        //    var loginData = new { Email = email, Password = password };
+        //    var json = System.Text.Json.JsonSerializer.Serialize(loginData);
+        //    var content = new StringContent(json, Encoding.UTF8, "application/json");
+        //    var response = await _httpClient.PostAsync("api/user/login", content);
+        //    var result = await response.Content.ReadAsStringAsync();
+        //    UserAccountSession? deseralizedResult = System.Text.Json.JsonSerializer.Deserialize<UserAccountSession>(result);
+        //    return deseralizedResult.accessToken;
+
+        //}
         public async Task<UserDetailModel?> GetUserDetailAsync()
         {   
 

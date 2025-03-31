@@ -30,6 +30,7 @@
 
         <Button Text="Logout"
                 BackgroundColor="Red"
+                Clicked="LogoutAsync"
                 TextColor="White"
                 FontSize="18"
                 HeightRequest="50"/> <!--add Logout method  here-->
